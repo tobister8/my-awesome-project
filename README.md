@@ -28,5 +28,5 @@ To run this dashboard locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
-cd YOUR-REPO-NAME
+git clone [https://github.com/tobister8/my-awesome-project.git](https://github.com/tobister8/my-awesome-project.git)
+cd my-awesome-project
